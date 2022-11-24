@@ -1,0 +1,15 @@
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\bin\Debug\net6.0\LottoSimulatorApp.exe
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\bin\Debug\net6.0\LottoSimulatorApp.deps.json
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\bin\Debug\net6.0\LottoSimulatorApp.runtimeconfig.json
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\bin\Debug\net6.0\LottoSimulatorApp.dll
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\bin\Debug\net6.0\LottoSimulatorApp.pdb
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\obj\Debug\net6.0\LottoSimulatorApp.csproj.AssemblyReference.cache
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\obj\Debug\net6.0\LottoSimulatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\obj\Debug\net6.0\LottoSimulatorApp.AssemblyInfoInputs.cache
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\obj\Debug\net6.0\LottoSimulatorApp.AssemblyInfo.cs
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\obj\Debug\net6.0\LottoSimulatorApp.csproj.CoreCompileInputs.cache
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\obj\Debug\net6.0\LottoSimulatorApp.dll
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\obj\Debug\net6.0\refint\LottoSimulatorApp.dll
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\obj\Debug\net6.0\LottoSimulatorApp.pdb
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\obj\Debug\net6.0\LottoSimulatorApp.genruntimeconfig.cache
+C:\Versuchslabor\LottoSimulatorApp\LottoSimulatorApp\obj\Debug\net6.0\ref\LottoSimulatorApp.dll
